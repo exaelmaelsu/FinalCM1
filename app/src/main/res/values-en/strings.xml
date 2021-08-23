@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalCM</string>
+    <string name="btn">Register</string>
+    <string name="name">First name</string>
+    <string name="Apellidos">Last name</string>
+    <string name="noCuenta">Account number</string>
+    <string name="btnRegresar">Back</string>
+    <string name="CajaTexto">Show text</string>
+    <string name="Tvdatos2">Receive account number</string>
+    <string name="tvdatos3">Receive age</string>
+    <string name="tvNombreCompleto">Name</string>
+    <string name="tvdatos">Receive name</string>
+    <string name="Fecha_Nacimiento">dd</string>
+    <string name="mes">mm</string>
+    <string name="año">aaaa</string>
+    <string name="tvdatos4">Receive Career</string>
+</resources>
